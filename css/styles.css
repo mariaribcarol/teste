@@ -1,0 +1,14 @@
+h1 {
+    color:pink;
+    text-align: center;
+}
+    p {
+    color: blue;
+    border: solid 1px black;
+    padding: 10px;
+    background-color: #ccc;
+    }
+    strong{
+    color: blueviolet;
+    background-color: orange;
+    }
